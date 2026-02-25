@@ -1,0 +1,5 @@
+{
+  "name": "CropSure AI",
+  "description": "AI-powered crop disease detection and fertilizer recommendation system to help farmers protect their yields.",
+  "requestFramePermissions": ["camera"]
+}
